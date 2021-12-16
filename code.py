@@ -1,6 +1,6 @@
 import random
 import string
-
+# asking the user to input password length
 print("hello, welcome to Nolly.co password generator!")
 length = int(input("Enter the length of password you desire:"))
 lower = string.ascii_lowercase
